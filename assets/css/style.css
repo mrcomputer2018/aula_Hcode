@@ -10,7 +10,7 @@ header, nav, main {
     margin: 2vh auto;
 }
 main, nav{
-    min-height: 82vh;
+    min-height: 12vh;
 }
 h1 {
     color: gray;
