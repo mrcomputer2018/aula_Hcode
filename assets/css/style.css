@@ -1,3 +1,17 @@
+.container {
+    padding: 2rem;
+}
+body{
+     background-color: orange;
+}
+header, nav, main {
+    background-color: white;
+    min-height: 10vh;
+    margin: 2vh auto;
+}
+main, nav{
+    min-height: 82vh;
+}
 h1 {
     color: gray;
 }
