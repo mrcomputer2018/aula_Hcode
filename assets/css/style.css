@@ -1,3 +1,6 @@
+html{
+    font-family: 'Lucida Sans';
+}
 .container {
     padding: 2rem;
 }
@@ -15,7 +18,7 @@ header, nav, main {
     border: 5px solid black;
 }
 main, nav {
-    min-height: 12vh;
+    min-height: 10vh;
 }
 h1 {
     color: gray;
